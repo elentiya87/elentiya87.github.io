@@ -334,7 +334,7 @@
       <nav>
         <a href="mailto:suscitatio87@gmail.com">Email me &#9787;</a>
 
-        <img src="images/ramir.jpeg" alt="Beautiful" />
+        <img src="ramir.jpeg" alt="Beautiful" />
       </nav>
     </footer>
   </body>
