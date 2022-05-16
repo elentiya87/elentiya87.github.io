@@ -137,6 +137,7 @@
     <h2 style="color: rgb(86, 121, 226)">
       &#9854;Coding I learned so Far&#9854;
     </h2>
+    <p>test only</p>
     <p>
       When coding always remember POUR guidelines: Percievable Operable
       Understandable Robust.
