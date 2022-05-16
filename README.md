@@ -137,7 +137,7 @@
     <h2 style="color: rgb(86, 121, 226)">
       &#9854;Coding I learned so Far&#9854;
     </h2>
-    <p>test only</p>
+    <p>test only for the upper part of the code</p>
     <p>
       When coding always remember POUR guidelines: Percievable Operable
       Understandable Robust.
